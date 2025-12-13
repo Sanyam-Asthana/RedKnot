@@ -1,5 +1,19 @@
 <div align="center">
 <h1>RedKnot</h1>
+<img src="logo.png" style="width: 30%">
+
+<br><br>
+
+<img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Sanyam-Asthana/RedKnot">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/Sanyam-Asthana/RedKnot">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Sanyam-Asthana/RedKnot">
+<br>
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sanyam-Asthana/RedKnot">
+<img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/redknot?label=PyPI%20downloads">
+
+
+
+
 
 
 <p>A simple dependency graph generator powered by mermaid.js</p>
