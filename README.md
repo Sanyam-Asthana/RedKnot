@@ -1,7 +1,7 @@
 <div align="center">
 <h1>RedKnot</h1>
-<img src="logo.png" style="width: 30%">
-<br>
+<img src="logo.png" style="width: 30%;">
+<br><br>
 
 <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Sanyam-Asthana/RedKnot">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/Sanyam-Asthana/RedKnot">
