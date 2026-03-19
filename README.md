@@ -121,9 +121,6 @@ redknot -html > index.html
 ```
 By default, RedKnot displays any errors while reading files as mermaid.js comments. You can disable the comments by passing the `-nocomm` flag. The `-html` flag has comments disabled by default.
 
-## Author's Notes
-Usually, I would put a section of technical details here, but since this is a one-file project which was made in like 10 minutes, there are not really a lot of details I can possible give. I am working towards supporting more languages like Python and Java, and any contribution to the project would mean a lot!
-
 ## License
 MIT License
 
